@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/adding_settings"
+        android:orderInCategory="1"
+        android:title="Add Student" />
+    <item
+        android:id="@+id/deleting_settings"
+        android:orderInCategory="2"
+        android:title="Students Deleting" />
+    <item
+        android:id="@+id/updating_settings"
+        android:orderInCategory="3"
+        android:title="Edit Student" />
+</menu>
